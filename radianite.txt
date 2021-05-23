@@ -1,0 +1,17 @@
+creation of Radianite errored: MetaMask Tx Signature: User denied transaction signature.
+creation of Radianite pending...
+ 
+ [block:7653204 txIndex:76] from: 0xd05...aE132to: Radianite.(constructor)value: 0 weidata: 0x608...00000logs: 1hash: 0x96f...8db9c
+ status	true Transaction mined and execution succeed
+ transaction hash	0x96f910a9c89f9a62f5fe1fbeed3901b44f984066f61969c1d74913011448db9c Copy value to clipboard
+ from	0xd058e7df1b6174984d1828fc5ad8bE53199aE132 Copy value to clipboard
+ to	Radianite.(constructor) Copy value to clipboard
+ gas	1912647 gas Copy value to clipboard
+ transaction cost	1912647 gas Copy value to clipboard
+ hash	0x96f910a9c89f9a62f5fe1fbeed3901b44f984066f61969c1d74913011448db9c Copy value to clipboard
+ input	0x608...00000 Copy value to clipboard
+ decoded input	{ "string _name": "Radianite", "string _symbol": "RDNT", "uint256 _decimals": "18", "uint256 _supply": "6969696969", "address tokenOwner": "0xd058e7df1b6174984d1828fc5ad8bE53199aE132" } Copy value to clipboard
+ decoded output	 - Copy value to clipboard
+ logs	[ { "from": "0x615F6920043fe11dEB32ac55e3C852936a9009d9", "topic": "0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef", "event": "Transfer", "args": { "0": "0x0000000000000000000000000000000000000000", "1": "0xd058e7df1b6174984d1828fc5ad8bE53199aE132", "2": "6969696969000000000000000000", "from": "0x0000000000000000000000000000000000000000", "to": "0xd058e7df1b6174984d1828fc5ad8bE53199aE132", "value": "6969696969000000000000000000" } } ] Copy value to clipboard Copy value to clipboard
+ value	0 wei Copy value to clipboard
+>
