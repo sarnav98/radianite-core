@@ -8,7 +8,7 @@ Radianite is super simple: A gaming token where you can earn just by trading! 10
 <li>💰 Contract Address: 0x615f6920043fe11deb32ac55e3c852936a9009d9</li>
 <li>💰 BSCScan: https://bscscan.com/token/0x615f6920043fe11deb32ac55e3c852936a90</li>
 <li>💰 Chart: https://charts.bogged.finance/?token=0x615F6920043fe11dEB32ac55e3C852936a9009d9</li>
-<li>🚀 How To buy?<li>
+<li>🚀 How To buy?</li>
 <li>🥞 BUY ON Pancakeswap: https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x615f6920043fe11deb32ac55e3c852936a9009d9</li>
 Come on and join the community – we’re all super optimistic about what the future holds for this fun and unique coin.
 🔒✅ Liquidity Locked ✅🔒
